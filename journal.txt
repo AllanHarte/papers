@@ -1,6 +1,7 @@
 Authors:
 A. Harte
 J. Bloggs
+D. Lunt
 
 Title:
 Model-measurement intercomparison of local plasticity-induced strain distributions
@@ -22,4 +23,7 @@ We find good correlation between the spatial distribution of strain when assessi
 
 Conclusions:
 We conclude that the qualitative comparisons in strain localisation between theory and experiemnt are good but questions remain unanswered in regards to the values obtained.
+
+Acknowledgements:
+
 
