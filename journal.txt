@@ -14,5 +14,9 @@ Simulations:
 We present here simulations of local plasticity with a spatial resolution of 100nm in Nickel-based superalloy RR1000. We do this using a CPFE model with EBSD input data for grain size and orientations at the sample surface.
 The preceeding body of work was developed by Taylor 2002.
 
-Methodology
-We use CPFEM methods developed by XYZ after Taylor 2002 and we employ new hrdic measurements in the SEM under backscattered imaging conditions
+Methodology:
+We use CPFEM methods developed by XYZ after Taylor 2002 and we employ new hrdic measurements in the SEM under backscattered imaging conditions.
+
+Conclusions:
+We conclude that the qualitative comparisons in strain localisation between theory and experiemnt are good but questions remain unanswered in regards to the values obtained.
+
