@@ -12,3 +12,4 @@ Smith et al 2007 made measurements at a resolution of 1 micrometer using visible
 
 Simulations:
 We present here simulations of local plasticity with a spatial resolution of 100nm in Nickel-based superalloy RR1000. We do this using a CPFE model with EBSD input data for grain size and orientations at the sample surface.
+The preceeding body of work was developed by Taylor 2002.
