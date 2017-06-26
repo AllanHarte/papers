@@ -1,8 +1,9 @@
 Authors:
 A. Harte
+J. Bloggs
 
 Title:
-Measurements of local plasticity
+MOdel-measurement intercomparison of local plasticity
 
 Introduction:
 We quantify local plasticity in terms of effective shear strain with a spatial resolution on the order of 10 nm and over a field of view on ther order of 1mm.
