@@ -7,3 +7,5 @@ Measurements of local plasticity
 Introduction:
 We quantify local plasticity in terms of effective shear strain with a spatial resolution on the order of 10 nm and over a field of view on ther order of 1mm.
 The derivation of strain from displacement fields is taken after Allen et al (2004).
+Smith et al 2007 made measurements at a resolution of 1 micrometer using visible light microscopy. For sub-micron resolution we require images taken from the scanning electron microscope.
+
