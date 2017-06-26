@@ -2,7 +2,7 @@ Authors:
 A. Harte
 
 Title:
-Measurements of local plasticity
+Measurements of local plasticity-induced strain distributions
 
 Introduction:
 We quantify local plasticity in terms of effective shear strain with a spatial resolution on the order of 10 nm and over a field of view on ther order of 1mm.
