@@ -1,0 +1,2 @@
+Allen et al 2004
+The founding paper on the derivation of strain from displacement fields
