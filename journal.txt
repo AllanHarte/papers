@@ -23,3 +23,8 @@ We find good correlation between the spatial distribution of strain when assessi
 Conclusions:
 We conclude that the qualitative comparisons in strain localisation between theory and experiemnt are good but questions remain unanswered in regards to the values obtained.
 
+Figures:
+This is a draft, so all of the figures are at the end of the paper.
+
+
+
