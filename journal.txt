@@ -1,6 +1,6 @@
 Authors:
-A. Harte
 J. Bloggs
+A. Harte
 
 Title:
 Model-measurement intercomparison of local plasticity-induced strain distributions
