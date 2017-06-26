@@ -5,6 +5,9 @@ J. Bloggs
 Title:
 Model-measurement intercomparison of local plasticity-induced strain distributions
 
+Abstract:
+We correlate the qualitative and quantitative distribution of strain localisation in Noi-base supperaloloy RR1000 in the spatial resolution range of 100nm.
+
 Introduction:
 We quantify local plasticity in terms of effective shear strain with a spatial resolution on the order of 10 nm and over a field of view on ther order of 1mm.
 The derivation of strain from displacement fields is taken after Allen et al (2004).
