@@ -3,3 +3,6 @@ The founding paper on the derivation of strain from displacement fields
 
 Smith et al 2007
 Measurements in LRDIC
+
+Taylor 2002
+CPFEM model development for prediction of plasticity behaviour
